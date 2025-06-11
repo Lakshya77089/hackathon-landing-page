@@ -8,7 +8,6 @@ import {
 	IconMail,
 } from '@tabler/icons-react'
 import { Button } from '@/components/ui/button'
-import { ModeToggle } from '@/components/ui/mode-toggle'
 import Link from 'next/link'
 
 export default function Footer() {

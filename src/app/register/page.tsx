@@ -1,6 +1,5 @@
 import Section1 from '@/pages/Register/Section1';
 import Navbar from '@/pages/Navbar';
-import Link from 'next/link';
 import Section2 from '@/pages/Register/Section2';
 import Section4 from '@/pages/Register/Section4';
 import Footer from '@/pages/Footer';
