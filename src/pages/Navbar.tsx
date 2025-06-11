@@ -14,7 +14,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <Image
-            src="/navbar/logo.png"
+            src="/navbar/Logo.png"
             alt="BFM Academy"
             width={120}
             height={32}
@@ -50,7 +50,7 @@ export default function Navbar() {
           {/* Avatar */}
           <Link href="/profile" className="p-1 hover:text-white">
             <Image
-              src="/navbar/avatar.png"
+              src="/navbar/Avatar.png"
               alt="User Avatar"
               width={32}
               height={32}
