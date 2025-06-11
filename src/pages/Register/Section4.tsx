@@ -40,7 +40,7 @@ export default function Section4() {
 
         {/* Hackathon Cards */}
         <div className="flex flex-col gap-6">
-          {hackathons.map((hackathon, index,colour) => (
+          {hackathons.map((hackathon, index) => (
             <div
               key={index}
               className="relative flex items-center justify-between rounded-xl overflow-hidden 
